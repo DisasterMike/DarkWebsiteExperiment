@@ -1,0 +1,15 @@
+.footer {
+  /* background-color: black; */
+  background: linear-gradient(rgb(49, 43, 49), rgb(0, 0, 0));
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.footer span {
+  color: brown;
+}
+
+.footer-icons {
+  display: flex;
+}
